@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-edgarbacker.dev-DC143C?style=for-the-badge&logo=firefox&logoColor=white)](https://www.edgarbacker.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edgar-backer)
-[![Email](https://img.shields.io/badge/Email-ask.debergen%40gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@edgarbacker.dev)
+[![Email](https://img.shields.io/badge/Email-edgarbacker%40gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@edgarbacker.dev)
 
 </div>
 
