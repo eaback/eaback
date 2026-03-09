@@ -97,24 +97,26 @@ I have a background in massage therapy alongside software development, which giv
 | 🍳 **ChefMate AI** | Cross-platform Flutter app. Photograph ingredients → AI generates recipes at 3 skill levels. | Flutter · Dart · Claude Vision API |
 
 ---
-<!--
+
 ## 📦 Open Source & Packages
 
 *Coming soon — utilities and tools I use across projects, published here.*
 
- Add packages/repos here as they become available -->
+<!-- Add packages/repos here as they become available -->
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <div align="center">
 
-![Edgar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaback&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC143C&icon_color=DC143C&text_color=ffffff&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eaback&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=DC143C&text_color=ffffff&langs_count=8)
+![Profile Views](https://komarev.com/ghpvc/?username=eaback&color=DC143C&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+> Most commits happen in private client and product repos — the contribution graph reflects real daily work.
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eaback&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff&area=true&hide_border=true)
 
 ---
 
