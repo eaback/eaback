@@ -97,7 +97,7 @@ I have a background in massage therapy alongside software development, which giv
 | 🍳 **ChefMate AI** | Cross-platform Flutter app. Photograph ingredients → AI generates recipes at 3 skill levels. | Flutter · Dart · Claude Vision API |
 
 ---
-
+<!--
 ## 📦 Open Source & Packages
 
 *Coming soon — utilities and tools I use across projects, published here.*
@@ -105,7 +105,7 @@ I have a background in massage therapy alongside software development, which giv
 <!-- Add packages/repos here as they become available -->
 
 ---
-
+<!--
 ## 📊 Activity
 
 <div align="center">
@@ -117,7 +117,7 @@ I have a background in massage therapy alongside software development, which giv
 > Most commits happen in private client and product repos — the contribution graph reflects real daily work.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=eaback&bg_color=0d1117&color=DC143C&line=DC143C&point=ffffff&area=true&hide_border=true)
-
+-->
 ---
 
 ## 🌍 Languages
