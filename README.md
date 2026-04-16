@@ -92,7 +92,7 @@ I have a background in massage therapy alongside software development, which giv
 |---|---|---|
 | 🏔️ **Destination Ljungdalen** | Multi-role booking & destination platform for a Swedish mountain tourism region. Cabin booking, activities, merchandise, owner portal & admin dashboard. | Next.js · PostgreSQL · Mollie · NextAuth |
 | 🏠 **De Bergen** | Client website for a Swedish cabin caretaking company. Result: **+83% client growth**, **revenue doubled** in 2 years. | Next.js · Firebase · Vercel |
-| 🤖 **Deveaz** | AI-powered project management SaaS for freelancers. Proposals, invoicing, GitHub PR reviews, Stripe subscriptions. | Next.js · PostgreSQL · Claude API · Stripe |
+| 🤖 **DevTop** | AI-powered project management SaaS for freelancers. Proposals, invoicing, GitHub PR reviews, Stripe subscriptions. | Next.js · PostgreSQL · Claude API · Mollie |
 | 🛒 **IronGrip** | Headless Shopify storefront built in SvelteKit. Full UX control, Shopify commerce backend, EU-edge hosted. | SvelteKit · Shopify API · GraphQL |
 | 🍳 **ChefMate AI** | Cross-platform Flutter app. Photograph ingredients → AI generates recipes at 3 skill levels. | Flutter · Dart · Claude Vision API |
 
